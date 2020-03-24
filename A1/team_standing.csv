@@ -1,0 +1,13 @@
+team_name,season_year,points,games_played,wins,losses,over_time losses,conference,division
+New York Rangers,2017-18,77,82,34,39,9,Eastern,Metropolitan
+Boston Bruins,2017-18,112,82,50,20,12,Eastern,Atlantic
+Toronto Maple Leafs,2017-18,105,82,49,26,7,Eastern,Atlantic
+Montreal Canadiens,2017-18,71,82,29,40,13,Eastern,Atlantic
+Chicago Blackhawks,2017-18,76,82,33,39,10,Western,Central
+Detroit Red Wings,2017-18,73,82,30,39,13,Eastern,Atlantic
+New York Rangers,2018-19,78,82,32,36,14,Eastern,Metropolitan
+Boston Bruins,2018-19,107,82,49,24,9,Eastern,Atlantic
+Toronto Maple Leafs,2018-19,100,82,46,28,8,Eastern,Atlantic
+Montreal Canadiens,2018-19,96,82,44,30,8,Eastern,Atlantic
+Chicago Blackhawks,2018-19,84,82,36,34,12,Western,Central
+Detroit Red Wings,2018-19,74,82,32,40,10,Eastern,Atlantic
